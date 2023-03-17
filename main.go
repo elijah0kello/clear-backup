@@ -8,7 +8,7 @@ import (
 
 func main() {
 	// instantiate the directory path and read the directory contents
-	dirName := "/Users/macbook/Desktop/go-learn/"
+	dirName := os.Args[1]
 	files, err := os.ReadDir(dirName)
 	if err != nil {
 		fmt.Println(err)
