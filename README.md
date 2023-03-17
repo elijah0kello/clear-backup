@@ -26,5 +26,5 @@ You can execute it by calling like this
 cd ~
 ```
 ```bash
-./clear-old-backup
+./clear-old-backup /path/to/folder
 ```
