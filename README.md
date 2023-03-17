@@ -3,7 +3,7 @@ This tool reads a directory's contents and deletes any file that is older than 1
 
 ## Usage
 
-To build use this tool, you would need to build an executable from it and then you can execute it on your 
+To build use this tool, you would need to build an executable from it, and then you can execute it on your 
 preferred platform.
 
 Run the following commands
